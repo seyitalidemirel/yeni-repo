@@ -4,5 +4,6 @@ public class proje01 {
         int y=2;
         System.out.println(X+y);
         //VERSIYON 1 KODLARI
+        //Versiyon 2 kodlari
     }
 }
