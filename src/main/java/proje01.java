@@ -5,5 +5,6 @@ public class proje01 {
         System.out.println(X+y);
         //VERSIYON 1 KODLARI
         //Versiyon 2 kodlari
+        // Versiyon 3 kodlari
     }
 }
