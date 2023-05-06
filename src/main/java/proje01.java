@@ -6,5 +6,6 @@ public class proje01 {
         //VERSIYON 1 KODLARI
         //Versiyon 2 kodlari
         // Versiyon 3 kodlari
+        // versiyon 4 tek satirla
     }
 }
